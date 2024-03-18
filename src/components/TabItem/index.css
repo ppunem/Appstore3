@@ -1,0 +1,22 @@
+/* Write your CSS here */
+li {
+  list-style-type: none;
+}
+.tabitem-button {
+  border: none;
+  border-bottom: 1px solid #7b8794;
+  color: #7b8794;
+  font-family: 'roboto';
+  font-size: 15px;
+  padding: 10px;
+  background-color: transparent;
+}
+.activetab {
+  border: none;
+  border-bottom: 1px solid #2563eb;
+  color: #2563eb;
+  font-family: 'roboto';
+  font-size: 15px;
+  padding: 10px;
+  background-color: transparent;
+}
